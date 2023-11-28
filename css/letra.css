@@ -15,8 +15,8 @@ body {
     justify-content: center;
     min-height: 100vh;
     background-color: var(--dark-color);
-    overflow: hidden;
-    perspective: 1000px;
+
+
   }
 
 .night {
@@ -31,8 +31,9 @@ body {
   }
 
 #traducao{
-    height: 100vh;
     text-align: center;
+    margin-bottom: auto;
+    margin-top: auto;
     color: #39c6d6;
     display: flex;
     align-items: center;
