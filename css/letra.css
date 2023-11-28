@@ -1,0 +1,13 @@
+*{
+    font-family: 'Poppins',cursive;
+}
+
+body{
+    background-color: black;
+}
+
+#traducao{
+    width: 400px;
+    height: auto;
+    color: #ccc;
+  }
